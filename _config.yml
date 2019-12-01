@@ -12,6 +12,13 @@ title: Boycott Tracker
 # Short bio or description (in share links)
 description: Keep track of companies and other people you don't like
 
+themeColor: '#00b0ff'
+
+brand:
+    name: Ben Leggiero
+    social:
+        twitter_username: BenLeggiero
+
 authors:
     -
         name: Ben Leggiero
